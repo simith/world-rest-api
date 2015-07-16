@@ -6,3 +6,5 @@ A REST API to query the World is a part of the article i wrote for creating REST
 The data to be imported into the MongoDb database is available under world-rest-api/database/data/ with a filename database-export-world.js.
 
 A database named "world" needs to be created and the data needs to be imported. It is easier using Rockmongo to import data into the database.
+
+Original blog: https://simithnambiar.wordpress.com/2013/09/24/a-restful-api-for-the-countries-of-the-world/
